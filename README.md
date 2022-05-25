@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Nikhil14091997/Code-File/blob/master/result.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -21,21 +21,14 @@ or <a href="mailto:nikhil14091997@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
--->
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
+
 
 
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/nikhil-kumar-272758136/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/nikhil_kumar_14/?hl=en">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.instagram.com/nikhil_kumar_14/?hl=en">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ● -->
   
 
 <a href="https://www.linkedin.com/in/nikhil-kumar-272758136/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -44,6 +37,7 @@ or <a href="mailto:nikhil14091997@gmail.com"><b>email</b></a> me
 
 </div>
 
+<!--
 
 - 👋 Hi, I’m @Nikhil14091997
 - 👀 I’m interested in ...
@@ -55,3 +49,5 @@ or <a href="mailto:nikhil14091997@gmail.com"><b>email</b></a> me
 Nikhil14091997/Nikhil14091997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+-->
