@@ -50,4 +50,8 @@ Nikhil14091997/Nikhil14091997 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
--->
+- Also, 
+- 👀 I’m interested in Machine Learning, Deep Learning, AI, NLP, Python Backend
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on the things I am intereset in. 
+
