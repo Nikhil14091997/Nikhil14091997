@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://www.google.com/search?q=hand+wave+gif&rlz=1C1CHBF_enIN830IN830&sxsrf=ALiCzsarXWOrc-fJJYv_NLhTV4LLm6b4Cw:1653520864563&tbm=isch&source=iu&ictx=1&vet=1&fir=At96MBNGXgk0oM%252CPw7dMur94orrSM%252C_%253Ba6_NoqZpTaZMwM%252ClevYt2V1YxhKMM%252C_%253BYdZqjhONxqHfdM%252CcPt2Mn-iEcxppM%252C_%253B6tjqHnbkCoB9oM%252CnYqauadbHqe_zM%252C_%253BSDydZLkhIC5NVM%252CbjAOO9AxEBShLM%252C_%253Bh-Aln93YrjXQkM%252CFi53gJBwbMGcHM%252C_%253Bk8CsvsQrWSujfM%252CFi53gJBwbMGcHM%252C_%253BqpigZb1tuJ8ODM%252CA9ktgjNGi_OX7M%252C_%253BieRkuzOfJi_57M%252CbaRB3wM07AHCTM%252C_%253BY1R316WXoIQQkM%252C9CdempwmcYVGHM%252C_%253BIaMzVZLr28Ja3M%252C0XnD9YZ43zdKwM%252C_%253BnM5O_mB-F8qkhM%252Cl_70mTmFbzY01M%252C_%253BHc3VRYFHtvn-NM%252CBZx_SPH2eTfzFM%252C_%253BHqqTeKCNyUHlHM%252CPw7dMur94orrSM%252C_&usg=AI4_-kTjitIneQHEvH9fW8qDV9JvY30nJw&sa=X&ved=2ahUKEwiE94qe5fv3AhUn4nMBHYgvA3gQ9QF6BAgKEAE#imgrc=IaMzVZLr28Ja3M" width="100px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Nikhil14091997/Code-File/blob/master/wave.gif" width="150px"></h2>
 </div>
 
 <div align="center" width="50">
