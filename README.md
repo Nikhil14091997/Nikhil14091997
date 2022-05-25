@@ -2,9 +2,9 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Nikhil14091997/Code-File/blob/master/wave.gif" width="85px"></h2>
 </div>
 
-<div align="center" width="250">
+<div align="center" width="50">
 
-<img src="https://github.com/Nikhil14091997/Code-File/blob/master/result.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Nikhil14091997/Code-File/blob/master/result.gif" alt="Welcome!" width="1000"/>
 
 </div>
 
